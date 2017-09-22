@@ -11,4 +11,6 @@ As stated above, the main purpose is to provide a simple example for GIT trainin
 
 ## Deployment
 
+This is a simple web project deployment.
+
 ## How To Contribute
