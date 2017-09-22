@@ -14,6 +14,7 @@ As stated above, the main purpose is to provide a simple example for GIT trainin
 This is a simple web project deployment.
 
 ## How To Contribute
+Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 Copyright notice
