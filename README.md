@@ -3,7 +3,7 @@ This example is to show different parts of the Git repository and various comman
 
 ## Introduction
 
-This is a sample introduction text. Adding more text for rebasing example.
+This is a sample introduction text. Adding more text for rebasing example. More changes from myfeature branch too.
 
 ## Purpose
 
